@@ -1,3 +1,11 @@
+/*
+	.feedbody--xx  (xx - feedID)
+	.dm-qqqqq  (хешь домена)
+	.dm-a-qqqqq  (хешь домена aaaaa.xx)
+	.dm-b-qqqqq  (хешь домена bbbb.aaaaa.xx)
+*/
+
+
 
 .feedbody--kf > img, 
 .feedbody--rr > img,
